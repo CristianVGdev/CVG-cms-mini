@@ -1,0 +1,54 @@
+CVGmini - Acuerdo de Licencia de Software  
+Versión 1.1
+Última actualización: 2025
+
+## 1. DEFINICIONES  
+
+1.1. **"Software"** se refiere a CVGmini, incluyendo su código fuente, archivos, documentación y cualquier material asociado.  
+1.2. **"Licenciante"** se refiere al titular de los derechos de autor de este software.  
+1.3. **"Licenciatario"** se refiere a cualquier persona o entidad que descargue, instale o use el Software.  
+1.4. **"Contribución"** se refiere a cualquier propuesta de cambio enviada por un usuario a través de un Pull Request en GitHub.  
+
+## 2. CONCESIÓN DE LICENCIA  
+
+2.1. **Uso permitido:**  
+   - Se permite el uso del software sin costo para proyectos personales o comerciales.  
+   - Se permite instalar y ejecutar el software en servidores propios.  
+
+2.2. **Contribuciones y modificaciones:**  
+   - Se permite proponer ediciones o mejoras al código mediante Pull Requests en el repositorio oficial de GitHub.  
+   - Cualquier contribución debe ser revisada y aprobada por el Licenciante antes de ser incluida en el Software.  
+   - El Licenciante se reserva el derecho de aceptar o rechazar cualquier contribución sin necesidad de justificación.  
+
+2.3. **Restricciones:**  
+   - No se permite modificar el código fuente ni crear versiones derivadas fuera del repositorio oficial.  
+   - No se permite redistribuir, sublicenciar, vender o comercializar el Software sin autorización.  
+   - No se permite eliminar avisos de derechos de autor o atribución del código.  
+
+## 3. PROPIEDAD INTELECTUAL  
+
+3.1. **Derechos de autor:** El Software y todas las contribuciones aceptadas forman parte del proyecto CVGmini, bajo la titularidad del Licenciante.  
+
+3.2. **Cesión de derechos sobre contribuciones:**  
+   - Al enviar una contribución, el autor otorga al Licenciante el derecho de uso, modificación y distribución de dicha contribución dentro del proyecto CVGmini.  
+   - El contribuyente mantiene la autoría, pero no puede exigir compensación económica ni derechos adicionales.  
+
+## 4. LIMITACIÓN DE GARANTÍA Y RESPONSABILIDAD  
+
+4.1. **Sin garantía:**  
+   - El Software se proporciona "TAL CUAL", sin garantías de ningún tipo.  
+   - El Licenciante no garantiza que el Software esté libre de errores o fallos de seguridad.  
+
+4.2. **Limitación de responsabilidad:**  
+   - El Licenciante no será responsable de daños directos o indirectos derivados del uso del Software.  
+
+## 5. TERMINACIÓN  
+
+5.1. Esta licencia se terminará automáticamente si el Licenciatario incumple cualquiera de sus términos.  
+5.2. En caso de terminación, el Licenciatario debe eliminar todas las copias del Software en su posesión.  
+
+## 6. DISPOSICIONES GENERALES  
+
+6.1. **Ley aplicable:** Este acuerdo se regirá por las leyes de [Tu País o Jurisdicción].  
+6.2. **Divisibilidad:** Si alguna disposición de esta licencia es declarada inválida, las disposiciones restantes seguirán en vigor.  
+6.3. **Acuerdo completo:** Este documento constituye el acuerdo completo entre las partes.  
